@@ -1,0 +1,36 @@
+h1{
+    color:red;
+    text-align:center;
+    margin-left: 450px;
+}
+.menu{
+    margin-right:30px;
+}
+.menu a{
+    margin-left: 20px;
+}
+
+ .item{
+    border:solid;
+    border-radius:20px;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+} 
+body{
+    background-color:#808080;
+    margin:0px
+} 
+
+.header{
+    background-color: grey;
+    display: flex;
+    justify-content:space-between;
+    border:solid
+  
+}
+.grid{
+    display: flex;
+    justify-content:space-evenly ;
+    flex-wrap:wrap
+}
